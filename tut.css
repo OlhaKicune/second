@@ -1,0 +1,32 @@
+body{
+    text-align: justify;
+    background-color: rgb(228, 228, 228);
+}
+
+h1,h2{
+    text-align: center;
+}
+.img,.img2, .input, .p,.h, .h2{
+    color: maroon;
+    background-color: rgb(214, 214, 214);
+}
+
+.code{
+    color: rgb(136, 4, 4);
+}
+
+.text1{
+    color: black;
+}
+
+a{
+  text-decoration: none;
+  background-color: rgb(202, 202, 202);
+  padding: 4px;  
+}
+
+a:hover{
+    text-decoration: underline;
+    color: crimson;
+
+}
