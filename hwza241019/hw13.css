@@ -1,0 +1,21 @@
+pre{
+    font-size: 20px;
+    font-family: sans-serif;
+    
+}
+p{
+    white-space: pre-line;
+    font-family: sans-serif;
+    font-size: 20px;
+    color: blue;
+}
+.ps{
+    color: indigo;
+    font-family: sans-serif;
+    font-size: 30px;
+
+}
+.hw:hover{
+    background-color: lightseagreen;
+    color: indigo;
+}

@@ -1,0 +1,50 @@
+.pink{
+   background-color:#FE2EC8 ;
+}
+.yellow{
+background-color:#F4FA58 ;
+}
+.centr{
+  text-align: center;
+  
+}
+.blue{
+    background-color:#2E9AFE;
+}
+.white{
+    background-color:whitesmoke;
+}
+.green{
+    background-color: lime;
+    height:70px;
+   
+
+
+
+}
+.green2{
+    background-color: rgb(9, 161, 85);
+    height:70px;
+}
+p{
+    white-space: pre-line;
+}
+h1{
+    text-align: center;
+    color: olivedrab;
+   
+}
+span:hover{
+    background-color: yellowgreen;
+   
+}
+.centr{
+    width: 200px; 
+    padding: 10px;
+    margin: auto; 
+    
+   }
+ 
+
+
+
