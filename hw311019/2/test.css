@@ -1,0 +1,113 @@
+li {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    width: 100px;
+    
+
+  }
+    li:hover {
+    background-color: rgb(70, 66, 66);
+    margin: 35px;
+    padding: 15px;
+    
+  }
+  a {
+    
+    color: rgb(231, 231, 231);
+    padding: 0;
+    opacity: 0%;
+    text-decoration: none;
+    font-weight: bold;
+    display: inline-block;
+    transition: opacity 1s ease;
+  }
+
+ a:hover {    
+    opacity: 100%;
+  }
+
+
+
+  body{
+    margin: 0;
+}
+
+ 
+ }
+p{
+    font-family: arial;
+    text-transform: uppercase;
+}
+
+ div{
+    text-align: justify;
+    padding: 40px;
+    margin: 70px;
+    margin-left: 180px;
+}
+.tab{
+    width: 50px;
+    height: 100%;
+    margin: 0;
+    background-color: dimgray;
+    position: fixed;
+    top: 0;
+    left: 0;
+    transition: width 1s ease;
+    position: fixed;
+} 
+
+.tab:hover{
+    width:250px;
+}
+
+
+.main{
+    position: fixed;
+    color: white;
+    top: 30px;
+    left: 30px;
+}
+
+.pen{
+    position: fixed;
+    top: 120px;
+    left: 30px;
+    list-style-image: url(pen.png);
+    list-style-position: inside;
+}
+
+.heart{
+    position: fixed;
+    top: 210px;
+    left: 30px;
+    list-style-image: url(heart.png);
+    list-style-position: inside;
+}
+
+.clock{
+    position: fixed;
+    top: 300px;
+    left: 30px;
+    list-style-image: url(clock.png);
+    list-style-position: inside;
+}
+.shit{
+    position: fixed;
+    top: 390px;
+    left: 30px;
+    list-style-image: url(shit.png);
+    list-style-position: inside;
+}
+.set{
+    position: fixed;
+    top: 480px;
+    left: 30px;
+    list-style-image: url(setting.png);
+    list-style-position: inside;
+}
+
+span{
+    padding: 10px;
+}
