@@ -1,0 +1,55 @@
+@import url(heder.css);
+@import url(footer.css);
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+
+body{
+    
+    margin: 0 ;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 100vh;
+}
+.main{
+   margin: 0;
+    flex-basis: 1;
+    background-image:url(kicune.jpg );
+    background-repeat: no-repeat;
+    background-size:1500px 800px;
+   background-attachment: fixed;
+  }
+
+
+
+  .kicune{
+    top: 0;
+    background-repeat: no-repeat;
+   
+    background-attachment: fixed;
+    filter: blur(1px) brightness(0.7);
+    position: absolute;
+    z-index: -1;
+    
+    
+
+  }
+  h1,h4{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+    text-align: center;
+  }
+h1{
+    color: white;
+    margin-top: 100px;
+}
+h4{
+    color:orangered ;
+}
+.content{
+    border-radius: 5px;
+    min-width: 800px;
+    margin: 0 50px;
+    padding: 19px;
+   text-align: justify;
+}

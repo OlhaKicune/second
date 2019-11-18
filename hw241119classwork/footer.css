@@ -1,0 +1,41 @@
+footer{
+    min-height:57px;
+    background-color:black;
+    padding: 14px 0;
+    display: flexbox;
+    justify-content: space-between;
+    /*align-items: center;*/
+    font-family: 'Roboto', sans-serif;
+    position: sticky;
+    bottom:0;
+    background-attachment: fixed;
+    
+   
+    }
+    h5 {
+        color: white;
+        text-align: center;
+       
+      
+    }
+    span{
+        color: orangered;
+    }
+  
+    
+    a.icons{
+        color:grey;
+        
+        
+    }
+    .down1, .down2{
+        margin: 0;
+        text-align: center;
+        padding: 10px;
+
+    }
+    a.pic{
+        margin:0;
+        padding: 10px;
+        
+    }

@@ -1,0 +1,30 @@
+header {
+    
+    margin:0;    
+    background-color:rgba(31, 27, 27, 0.158);
+    padding: 14px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: 'Roboto', sans-serif;
+    position: sticky;
+    
+   
+}
+    
+    a {
+        color: rgba(255, 68, 0, 0.459);
+        text-decoration: none;
+        text-transform: uppercase;
+        margin: 0 15px;
+        font-size: 19px;
+        
+    }
+    
+    .l-menu{
+        margin-left: 200px;
+       
+    }
+    .r-menu{
+        margin-right: 200px;}
+        
