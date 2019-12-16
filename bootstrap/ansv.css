@@ -1,0 +1,12 @@
+ body{
+    
+ }
+
+div{
+    border-left: 8px solid rgba(25, 214, 8, 0.822);
+    padding-left: 10 px;
+    margin-left: 10px;
+    margin: 5px;
+    text-align: justify;
+    font-family: sans-serif;
+}
